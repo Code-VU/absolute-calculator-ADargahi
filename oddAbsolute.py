@@ -6,7 +6,7 @@ def calculateAbsolute():
         diff = abs((int(in_num) - 21) * 2)
     else:
         diff = abs(int(in_num) - 21)
-    print("Result: ", diff)
+    print("Result:", diff)
     # end assignment
 
 ## if you want to test locally before you try to sync

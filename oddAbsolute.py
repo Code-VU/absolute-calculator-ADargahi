@@ -9,7 +9,6 @@ def calculateAbsolute():
     print(diff)
     # end assignment
 
-calculateAbsolute()
 ## if you want to test locally before you try to sync
 ## uncomment calculateAbsolute() and run > python payCalculator.py
 ## ***IMPORTANT*** please recomment before you submit/sync your assignment.
